@@ -4,7 +4,7 @@ I'm Prajwol, a undergrad electrical engineering student from Nepal.
 
 I am passionate about Electric Machines, Power Electronics, Renewable Energy Systems & AI/ML implementation.
 
-My skills include Matlab, AutoCad Electrical, C/C++ ,Python, Etap, Digsilent and IOT applications.
+My skills include Matlab, AutoCad Electrical, DIALUX, C/C++ ,Python, Etap, Digsilent and IOT applications.
 
 I've got a bunch of pinned projects
 
