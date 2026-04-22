@@ -12,6 +12,7 @@ Fun Fact:
 
 I get serious at what i am assigned with.
 I enjoy turning theoretical electrical concepts into practical engineering solutions ⚙️
+
 Hobbies: Gym, Travel, Sketch
 
 
